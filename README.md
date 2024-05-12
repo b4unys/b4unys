@@ -5,7 +5,7 @@ i am a css, html, and javascript developer
 
 i own lots of cool websites.
 
-## What Im Popular For
+## What Im Known For
 
 im most recognized as the creator of brunysixl
 
@@ -22,6 +22,3 @@ https://youtube.com/@b4uny (youtube)
 https://tiktok.com/@b4uny (tiktok)
 
 b4unys@gmail.com (my email) (please dont spam it)
-
-## end
-thats all
