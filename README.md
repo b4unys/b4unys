@@ -3,16 +3,9 @@ hi im brunys
 
 i am a css, html, and javascript developer
 
-i own lots of cool websites.
+owner of brunysixl
 
-## What Im Known For
-
-im most recognized as the creator of brunysixl
-
-also som shitty animations I made when i was 11 
-(still make them)
-
-## lets connect
+## my socials
 here are some platforms to stalk me on and my email
 
 https://discord.gg/HrjPBeDZwy (discord)
