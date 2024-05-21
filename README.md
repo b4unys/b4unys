@@ -1,4 +1,4 @@
-# Brunys
+# ßrunys
 hi im brunys
 
 i am a css, html, and javascript developer
